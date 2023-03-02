@@ -3,12 +3,13 @@ A small and effective way to organize your files!
 
 # Requirements
 ```
-Python 3.10 or later
+Python 3.10 or later.
 Basic Text Editor (VSCode, Notepad etc.)
 ```
 # Usage
 ```
-Edit the "ext_to_folder" paths and "dir_path"
+Edit the "ext_to_folder" paths and "dir_path".
+Run main.py in your favorite Python Interpreter!
 And Voilà!
 ```
 
